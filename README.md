@@ -1,5 +1,7 @@
 # college-notice-app
 
+Yasin College, Faridpur — সরকারি ইয়াছিন কলেজ, ফরিদপুর
+
 College notice and class routine app for Intermediate, Honours and Degree students
 
 কলেজের শিক্ষার্থীদের জন্য বিভাগভিত্তিক নোটিশ ও ক্লাস রুটিন অ্যাপ।
